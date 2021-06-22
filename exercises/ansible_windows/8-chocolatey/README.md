@@ -2,7 +2,7 @@
 <br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md).
 <br>
 
-Yo! Brian Salisbury is up in here making changes!
+# Yo! Brian Salisbury is up in here making changes!
 
 This exercise aims to introduce how Ansible makes it easy to control all aspects of managing Windows software using Chocolatey. We will cover Installing, updating and uninstalling packages, managing different sources, configuring chocolatey clients and other common tasks that a system administrator would take on.
 
